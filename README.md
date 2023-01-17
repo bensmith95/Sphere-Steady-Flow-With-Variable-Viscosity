@@ -1,6 +1,6 @@
 # Sphere-Steady-Flow-With-Variable-Viscosity
 
-MATLAB code that solves and compiles the steady flow around a rotating sphere with variable viscosity of the form discussed in [Miller _et al_](https://doi.org/10.1063/1.5129220). The package contains code that solves the heated, rotating sphere boundary layer, the new model of the impinging region and the subsequent eruption of the radial jet.
+MATLAB code that solves and compiles the steady flow around a rotating sphere with variable viscosity of the form discussed in [Miller _et al_ (2020)](https://doi.org/10.1063/1.5129220). The package contains code that solves the heated, rotating sphere boundary layer, the new model of the impinging region and the subsequent eruption of the radial jet.
 
 All numerical methods are the same as those in the [Steady Sphere Flow](https://github.com/bensmith95/Sphere-Steady-Flow) code. Full detials can be seen in Smith _et al_ (2023) [in draft].
 
